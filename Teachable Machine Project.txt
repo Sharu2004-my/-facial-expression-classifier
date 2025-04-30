@@ -1,0 +1,28 @@
+# Facial Expression Classifier – Teachable Machine
+
+This is a basic machine learning project created using Google's Teachable Machine.
+
+## 🧠 Description
+This model classifies facial expressions into two categories: **Happy** and **Sad**. It was trained using webcam images.
+
+## ⚙️ Tools Used
+- Teachable Machine (TensorFlow.js backend)
+- Webcam-based image input
+- No-code training interface
+
+## 🚀 How It Works
+- Collected 30 samples for each class using the webcam
+- Trained a model using Google's interface
+- Tested the model on live webcam input
+
+## 🔗 Model Link
+[Insert your Teachable Machine model link here]
+
+## 📸 Screenshots
+![Training Screenshot](screenshot1.jpg)  
+![Testing Screenshot](screenshot2.jpg)
+
+## 📁 Files Included
+- `screenshot1.jpg` – Model training view  
+- `screenshot2.jpg` – Testing model in real-time  
+- `README.md` – Project summary
